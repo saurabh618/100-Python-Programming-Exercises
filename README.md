@@ -4,5 +4,8 @@ The exercise text contents of this repository was collected from GitHub account 
 I collected it to practice and solve all the listed problems with python. Even after these collected problems are all set up, I will try to add more problems in near future. 
 For every problem, I have added my solution at the top, followed by some other unique and good solutions which I found in the above said repository.
 
-If you are a beginner with python then I hope these exercises will help you to get your hands free with python, just the way it did to me :)
+I have divided the 100 exercises into 20 days, with each day carrying 5 excercises.
+
+If you are a beginner with python then I hope these exercises will help you immensely, just the way they did to me :)
+
 Thank You, and have fun!
